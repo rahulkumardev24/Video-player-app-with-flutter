@@ -20,7 +20,7 @@ class _MusicListScreenState extends State<MusicListScreen> {
     "assets/videos/Dil-Raghav's-Version-Ek-Villain.mp4" ,
     "assets/videos/Tumse-Bhi-Zyada-Full-Video-Tadap.mp4" ,
     "assets/videos/Mehabooba-Video-Song-(Hindi)-KGF-Chapter-2.mp4" ,
-    "assets/videos/ANIMAL-Pehle-Bhi-Main.mp4"
+    "assets/videos/Pehle-Bhi-Main.mp4"
   ];
   @override
   Widget build(BuildContext context) {
