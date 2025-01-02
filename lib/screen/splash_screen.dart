@@ -25,7 +25,7 @@ class _SplashScreenState extends State<SplashScreen> {
     });
 
     /// after splash screen navigate to music List screen
-    Timer(const Duration(milliseconds: 2000), () {
+    Timer(const Duration(milliseconds: 2500), () {
       Navigator.pushReplacement(
           context, MaterialPageRoute(builder: (context) => MusicListScreen()));
     });
