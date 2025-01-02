@@ -13,7 +13,8 @@ class _MusicListScreenState extends State<MusicListScreen> {
   List<String> videoList = [
     "assets/videos/Samjhawan-Full-ideo.mp4",
     "assets/videos/Dil-Raghav's-Version-Ek-Villain.mp4" ,
-    "assets/videos/Tumse-Bhi-Zyada-Full-Video-Tadap.mp4"
+    "assets/videos/Tumse-Bhi-Zyada-Full-Video-Tadap.mp4" ,
+    "assets/videos/Mehabooba-Video-Song-(Hindi)-KGF-Chapter-2.mp4"
   ];
   @override
   Widget build(BuildContext context) {
